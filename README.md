@@ -11,6 +11,6 @@
 
 ### Repository Files
 
-- Code file contains the coding part of the project and the data analysis process.
+- Code file contains the coding part of the project.
 - Visualisations file contains the images used in the presentation.
-
+- Process file shows the steps of the data analysis process.
