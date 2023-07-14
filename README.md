@@ -9,8 +9,8 @@
 - I used the second case study dataset for my case study.
 - The link to the dataset is available [here](https://www.kaggle.com/datasets/arashnic/fitbit)
 
-### Repository Files
+### Extra Files and Folders in This Repository.
 
-- Code file contains the coding part of the project.
-- Visualisations file contains the images used in the presentation.
+- Code folder contains the coding part of the project.
+- Visualisations folder contains the images used in the presentation.
 - Process file shows the steps of the data analysis process.
